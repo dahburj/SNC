@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/SNCIVView">
+        <file>icons/DialLight.png</file>
+        <file>icons/DialTemperature.png</file>
+        <file>icons/DialPressure.png</file>
+        <file>icons/DialHumidity.png</file>
+        <file>icons/Stop.png</file>
+        <file>icons/Forward.png</file>
+        <file>icons/Reverse.png</file>
+        <file>icons/FastForward.png</file>
+        <file>icons/FastReverse.png</file>
+        <file>icons/DialAirQuality.png</file>
+    </qresource>
+</RCC>
